@@ -41,4 +41,4 @@ This project aims to demonstrate a multi-sensor fusion approach for object local
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](kitti-sf/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
