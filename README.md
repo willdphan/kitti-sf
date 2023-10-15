@@ -4,7 +4,7 @@
 This project aims to demonstrate a multi-sensor fusion approach for object localization and visualization by utilizing LiDAR, camera, and IMU data. The primary objective is to detect objects in 2D camera images, estimate their 3D positions using LiDAR data, and subsequently transform these positions into various coordinate frames including IMU and geodetic frames.
 
 ## Libraries Used
-- The `torch` library is utilized for running the YOLOv5 object detection model.
+- `torch` library is utilized for running the YOLOv5 object detection model.
 - `cv2` (OpenCV) is used for image processing and visualization tasks.
 - `numpy` is employed for numerical operations.
 - `pymap3d` is used for geodetic to cartesian coordinate transformations.
