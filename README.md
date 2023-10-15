@@ -1,4 +1,4 @@
-# LiDAR, Camera, and IMU-based Object Localization and Visualization
+# KITTI Sensor Fusion and Object Detection
 
 ## Project Overview
 This project aims to demonstrate a multi-sensor fusion approach for object localization and visualization by utilizing LiDAR, camera, and IMU data. The primary objective is to detect objects in 2D camera images, estimate their 3D positions using LiDAR data, and subsequently transform these positions into various coordinate frames including IMU and geodetic frames.
